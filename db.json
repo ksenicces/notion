@@ -1,0 +1,177 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "123456789Aa",
+      "createdAt": 1700313547023
+    },
+    {
+      "id": 2,
+      "email": "user2@gmail.com",
+      "password": "123456789Dd",
+      "createdAt": 1700313547025
+    },
+    {
+      "id": 3,
+      "email": "user3@gmail.com",
+      "password": "123456789Gg",
+      "createdAt": 1700313547026
+    },
+    {
+      "id": 4,
+      "email": "user4@gmail.com",
+      "password": "123456789Ii",
+      "createdAt": 1700313547027
+    },
+    {
+      "email": "NewUser@gmail.com",
+      "password": "Qwerty123",
+      "confirmPassword": "Qwerty123",
+      "id": 1732278341933,
+      "createdAt": 1732278341933
+    },
+    {
+      "email": "users@mail.ru",
+      "password": "987654321Qq",
+      "confirmPassword": "987654321Qq",
+      "id": 1732296181780,
+      "createdAt": 1732296181780
+    },
+    {
+      "email": "ana@gmail.com",
+      "password": "123123123Aq",
+      "confirmPassword": "123123123Aq",
+      "id": 1733495431389,
+      "createdAt": 1733495431389
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "Первая заметка",
+      "body": "Тело первой заметки",
+      "createdAt": 1700313547024
+    },
+    {
+      "title": "Вторая заметка",
+      "body": "Тело второй заметки",
+      "id": 2,
+      "authorId": 2,
+      "createdAt": 1700313547028
+    },
+    {
+      "id": 4,
+      "authorId": 4,
+      "title": "Четвертая заметка",
+      "body": "Тело четвертой заметки",
+      "createdAt": 1700313547030
+    },
+    {
+      "id": 5,
+      "authorId": 4,
+      "title": "Четвертая заметка2",
+      "body": "Тело четвертой заметки2",
+      "createdAt": 1700313547030
+    },
+    {
+      "title": "заметкаа",
+      "body": "123456789",
+      "id": 1732282454740,
+      "authorId": 1732278341933,
+      "createdAt": 1732282454740
+    },
+    {
+      "id": 1732283571530,
+      "authorId": 1732278341933,
+      "title": "заметка 2",
+      "body": "заметка",
+      "createdAt": 1732283571530
+    },
+    {
+      "id": 1732288039453,
+      "authorId": 1732278341933,
+      "title": "важно",
+      "body": "",
+      "createdAt": 1732288039453
+    },
+    {
+      "title": "важно",
+      "body": "заметка",
+      "id": 1732290063390,
+      "authorId": 2,
+      "createdAt": 1732290063390
+    },
+    {
+      "id": 1732296220992,
+      "authorId": 1732296181780,
+      "title": "new",
+      "body": "",
+      "createdAt": 1732296220992
+    },
+    {
+      "title": "07.12",
+      "body": ".....",
+      "id": 1733484741657,
+      "authorId": 2,
+      "createdAt": 1733484741657
+    },
+    {
+      "id": 1733484855267,
+      "authorId": 2,
+      "title": "новая заметка",
+      "body": "",
+      "createdAt": 1733484855267
+    },
+    {
+      "id": 1733490690924,
+      "authorId": 1,
+      "title": "новая заметка 1",
+      "body": "",
+      "createdAt": 1733490690924
+    },
+    {
+      "id": 1733493147960,
+      "authorId": 1,
+      "title": "новая заметка",
+      "body": "",
+      "createdAt": 1733493147960
+    },
+    {
+      "id": 1733493151060,
+      "authorId": 1,
+      "title": "новая заметка",
+      "body": "воат",
+      "createdAt": 1733493151060
+    },
+    {
+      "id": 1733493171047,
+      "authorId": 1,
+      "title": "заметка",
+      "body": "",
+      "createdAt": 1733493171047
+    },
+    {
+      "title": "заметка 33",
+      "body": "",
+      "id": 1733493570336,
+      "authorId": 3,
+      "createdAt": 1733493570336
+    },
+    {
+      "id": 1733493917149,
+      "authorId": 3,
+      "title": "новая заметка",
+      "body": "",
+      "createdAt": 1733493917149
+    },
+    {
+      "title": "первая заметка",
+      "body": "...........",
+      "id": 1733495462038,
+      "authorId": 1733495431389,
+      "createdAt": 1733495462038
+    }
+  ]
+}
